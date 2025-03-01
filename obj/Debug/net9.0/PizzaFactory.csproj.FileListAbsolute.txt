@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\bin\Debug\net9.0\PizzaFactory.exe
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\bin\Debug\net9.0\PizzaFactory.deps.json
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\bin\Debug\net9.0\PizzaFactory.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\bin\Debug\net9.0\PizzaFactory.dll
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\bin\Debug\net9.0\PizzaFactory.pdb
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.dll
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\refint\PizzaFactory.dll
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.pdb
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\PizzaFactory.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PizzaFactory\PizzaFactory\obj\Debug\net9.0\ref\PizzaFactory.dll
